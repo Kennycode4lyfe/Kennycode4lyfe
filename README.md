@@ -44,3 +44,10 @@ I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 </div>
 
 
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kennycode4lyfe&theme=vue-dark)](https://git.io/streak-stats)
+
+
