@@ -7,7 +7,7 @@
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/kehinde-adediran-8b6269241">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a><br>
 <img src="https://komarev.com/ghpvc/?username=Kennycode4lyfe&style=flat-square&color=blue" alt="prof"/>
 <h1>
   hey there
@@ -16,13 +16,16 @@
 </div>
 
 
-
-
 ---
 
-### :man_technologist: About Me :
-
+### :man_technologist: About Me : 
 I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+- 🔭: I'm currently a student of AltSchool Africa studing Backend engineering.
+- 🌱: Exploring Backend engineering roles
+- ⚡: In my free time, I play video games and ponder on the bugs in my code.
+- 📫: How to reach me: Kennydemola2@gmail.com
+
+
 
 
 <!--
