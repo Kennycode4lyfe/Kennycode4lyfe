@@ -21,7 +21,7 @@
 ### :man_technologist: About Me : 
 I am a Back-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
 - 🔭: I'm currently a student of AltSchool Africa studing Backend engineering.
-- 🌱: Exploring Backend engineering roles
+- 🌱: Exploring Backend engineering internship roles
 - ⚡: In my free time, I play video games and ponder on the bugs in my code.
 - 📫: How to reach me: Kennydemola2@gmail.com
 
